@@ -40,8 +40,8 @@ ESP32-based Bluetooth device to help locate misplaced earbud cases using sound a
 - Advanced Data Structures and Algorithms
 - Embedded System Design
 - IoT Development
-- Git and GitHub Best Practices
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn profile here
-- GitHub: Your GitHub Profile
+- LinkedIn: www.linkedin.com/in/r-dhayas-sri-2265a9328
+- Mail: dhayassri@yahoo.com
+  
