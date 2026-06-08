@@ -21,20 +21,17 @@
 
 ## Projects
 
-### 🍱 Save and Serve
-Food Donation Progressive Web App connecting donors and receivers.
-
-### 🔒 Multi-Functional Digital Locker
-Digital locker system using combinational and sequential logic circuits with password protection and security features.
-
-### 🌫️ Air Quality Monitoring System
+### Air Quality Monitoring System
 IoT-based system for monitoring environmental air quality using sensors and real-time data collection.
 
-### 🧤 Smart Hand Gloves
+### Smart Hand Gloves
 Embedded and IoT project designed for intelligent sensing and interaction using wearable technology.
 
-### 📡 BLE Earbud Locator
-ESP32-based Bluetooth device to help locate misplaced earbud cases using sound alerts.
+### Guardion Dashboard
+
+A smart monitoring dashboard that tracks real-time electrical parameters and detects anomalies using fault prediction techniques. It provides early alerts for conditions such as overheating, voltage drops, phase imbalance, and peak load, helping improve system safety and reliability.
+
+
 
 ## Currently Learning
 - Advanced Data Structures and Algorithms
