@@ -33,6 +33,9 @@ Embedded and IoT project designed for intelligent sensing and interaction using 
 
 A smart monitoring dashboard that tracks real-time electrical parameters and detects anomalies using fault prediction techniques. It provides early alerts for conditions such as overheating, voltage drops, phase imbalance, and peak load, helping improve system safety and reliability.
 
+### 4-Bit Binary Multifunctional Digital Locker
+
+Developed a secure digital locker system using Arduino Uno and embedded systems concepts. The project features 4-bit binary password authentication, servo-based locking, LED and buzzer feedback, and an EEPROM-based lockout mechanism that prevents unauthorized access even after power resets.
 
 
 ## Currently Learning
