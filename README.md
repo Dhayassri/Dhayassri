@@ -9,6 +9,8 @@
 ### Programming
 - Python
 - Data Structures and Algorithms (DSA)
+- C 
+- Embedded C
 
 ### Embedded Systems & IoT
 - ESP32
